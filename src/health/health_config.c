@@ -1,4 +1,4 @@
-// Use with action.
+// Use with action
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 #include "health.h"

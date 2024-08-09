@@ -9,4 +9,4 @@ jobs:
             - name: Run ESBMC action
               uses: esbmc/esbmc-action@v2
               with:
-                esbmc-options: --incremental-bmc --include src/health --inlcude src/daemon
+                esbmc-options: --incremental-bmc --include src/health --include src/daemon
